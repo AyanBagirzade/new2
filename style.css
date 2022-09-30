@@ -1,0 +1,63 @@
+.block{
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    margin: auto;
+}
+.flag{
+    width: 300px;
+    height: 200px;
+    border: 3px solid rgb(167, 191, 88);
+    
+    display: flex;
+
+   margin: 50px auto
+    
+    
+}
+.red{
+    background-color: rgb(143, 10, 10);
+    border-radius: 120px ;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+.diagrams{
+width: 300px;
+height: 300px;
+border: 3px solid rgb(60, 68, 32);
+margin: 50px auto;
+display: flex;
+justify-content: flex-end;
+justify-content: space-around;
+align-items: flex-end;
+
+
+}
+.first{
+width:40px ;
+height: 250px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+}
+.second{
+    width:40px;
+    height: 174px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+
+}
+.third{
+    
+        width:40px;
+        height: 92px;
+        background-color: aquamarine;
+        margin-bottom: 20px;
+}
+.fourth{
+    
+    width:40px;
+    height: 221px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+}
